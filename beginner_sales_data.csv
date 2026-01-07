@@ -1,0 +1,11 @@
+OrderID,OrderDate,Customer,City,Category,Product,Quantity,Sales,Profit
+1001,01-01-2024,Rahul,Pune,Electronics,Mobile,1,15000,2000
+1002,03-01-2024,Anita,Mumbai,Furniture,Chair,2,8000,1200
+1003,05-01-2024,Suresh,Pune,Electronics,Laptop,1,55000,7000
+1004,10-01-2024,Neha,Nagpur,Office Supplies,Pen,10,500,200
+1005,15-01-2024,Amit,Mumbai,Electronics,Headphones,3,6000,1500
+1006,20-02-2024,Pooja,Pune,Furniture,Table,1,12000,2500
+1007,22-02-2024,Rohit,Nagpur,Office Supplies,Notebook,5,1500,400
+1008,25-02-2024,Kiran,Mumbai,Electronics,Mobile,2,30000,3500
+1009,01-03-2024,Meena,Pune,Office Supplies,Marker,4,800,300
+1010,05-03-2024,Vikas,Nagpur,Furniture,Sofa,1,40000,6000
